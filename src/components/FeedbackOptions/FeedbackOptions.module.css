@@ -1,5 +1,12 @@
 button {
-    margin-right: 5px;
+  width: 80px;
+    font-weight: normal;
+    font-size: 18px;
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-shadow: inset;
   }
   button:last-child{
     margin-right: 0;
